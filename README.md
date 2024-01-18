@@ -1,4 +1,4 @@
-<p align="center"><img src="/art/tiny-blog.png.png" alt="A tiny markdown blog package for Laravel"></p>
+<p align="center"><img src="/art/tiny-blog.png" alt="A tiny markdown blog package for Laravel"></p>
 
 # A tiny markdown blog package for Laravel
 
